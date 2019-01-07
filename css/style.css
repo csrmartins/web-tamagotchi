@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Saira');
+
+body {
+  background-color: #532847;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h1{
+  font-family: 'Major Mono Display', monospace;
+  color: #A12525;
+  font-size: 32px;
+}
+
+.center{
+  text-align: center;
+  height: auto;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 10px;
+  background-color: #DA3948;
+  border-radius: 25px;
+}
+
+.screen {
+    width: 220px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+#nameValue {
+  padding: 5px;
+  color: #535353;
+}
+
+img {
+  height: 150px;
+  width: auto;
+  padding: 10px;
+
+}
+
+.petInfo{
+  padding: 10px;
+  color: #535353;
+}
+
+li{
+    margin-left: 0;
+    margin-bottom: 5px;
+}
+
+.atributes{
+  padding: 10px;
+  list-style-type: none;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+
+
+#nameButton{
+  font-family: 'Saira', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  height: 60px;
+  width: 150px;
+  background-color: #e1e500;
+  color: #535353;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 5px solid #c3c600;
+  border-radius: 20px;
+}
+
+#feedButton{
+  font-family: 'Saira', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  height: 60px;
+  width: 90px;
+  background-color: #510F11;
+  color: #AD9AA8;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: 5px;
+  border: 5px solid #A12525;
+  border-radius: 20px;
+}
+
+#petButton{
+  font-family: 'Saira', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  height: 60px;
+  width: 90px;
+  background-color: #510F11;
+  color: #AD9AA8;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 5px solid #A12525;
+  border-radius: 20px;
+}
+
+#lightButton{
+  font-family: 'Saira', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  height: 60px;
+  width: 90px;
+  background-color: #510F11;
+  color: #AD9AA8;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  margin-right: auto;
+  border: 5px solid #A12525;
+  border-radius: 20px;
+}
+
+#hungerBar {
+  background-color: #535353;
+  height: 10px;
+  width: 100px;
+  margin-left: 0;
+  margin-right: auto;
+  margin-top: 3px;
+  margin-bottom: 3 px;
+}
+
+#sleepinessBar {
+  background-color: #535353;
+  height: 10px;
+  width: 100px;
+  margin-left: 0;
+  margin-right: auto;
+  margin-top: 3px;
+  margin-bottom: 3 px;
+}
+
+#boredomBar {
+  background-color: #535353;
+  height: 10px;
+  width: 100px;
+  margin-left: 0;
+  margin-right: auto;
+  margin-top: 3px;
+  margin-bottom: 3 px;
+}
